@@ -15,7 +15,7 @@ end)
 
 ```
  ['hostagecard'] = {
-        label = 'Karta Zakładnika',
+        label = 'Hostage Card',
         weight = 10
     }
 ```
