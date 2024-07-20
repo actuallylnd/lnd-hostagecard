@@ -18,5 +18,4 @@ end)
         label = 'Karta Zakładnika',
         weight = 10
     }
-
 ```
