@@ -10,7 +10,7 @@ A simple script where after using the card, a hostage appears in the place of ou
 ```
 Item('hostagecard', function(data, slot)
     exports.ox_inventory:useItem(data, function(data)
-        TriggerEvent('lnd-hostagecard:client:useHostageCard', data)
+        exports['lnd-hostagecard]:UseCard()
     end)
 end)
 ```
