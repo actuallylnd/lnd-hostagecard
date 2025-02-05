@@ -9,3 +9,9 @@ Config.PedModels = {
 }
 
 Config.rayCastingDistance = 7.0
+
+Config.Tranlation = {
+    Hostageplaced = 'Postawiłeś Zakładnika',
+    WhileInCar = 'Nie możesz użyć karty siedząc w pojeździe',
+    ReleaseHostage = 'Puść Zakładnika',
+}
